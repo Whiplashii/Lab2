@@ -1,6 +1,8 @@
 # Lab2
 Nesterovich Denis
 124403
+Naumkin Stepan
+
 <<<<<<< HEAD
 
 qwe
